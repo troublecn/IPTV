@@ -1,1 +1,93 @@
-
+#EXTM3U
+#EXTINF:-1 ,CCTV1 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
+#EXTINF:-1 ,CCTV2 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
+#EXTINF:-1 ,CCTV3 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8
+#EXTINF:-1 ,CCTV4 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
+#EXTINF:-1 ,CCTV5 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8
+#EXTINF:-1 ,CCTV5+ Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
+#EXTINF:-1 ,CCTV6 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 ,CCTV8 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
+#EXTINF:-1 ,CCTV9 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
+#EXTINF:-1 ,CCTV10 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 ,CCTV11 5.5M1080HEVC 
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 ,CCTV12 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 ,CCTV13 8M1080HEVC 
+http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
+#EXTINF:-1 ,CCTV14 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 ,CCTV15 5.5M1080HEVC 
+http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 ,CCTV16 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
+#EXTINF:-1 ,CCTV17 5.5M1080HEVC 
+http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 ,江苏卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
+#EXTINF:-1 ,浙江卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 ,湖南卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 ,东方卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 ,北京卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
+#EXTINF:-1 ,安徽卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
+#EXTINF:-1 ,天津卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+#EXTINF:-1 ,山东卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+#EXTINF:-1 ,广东卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1 ,深圳卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+#EXTINF:-1 ,湖北卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
+#EXTINF:-1 ,辽宁卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+#EXTINF:-1 ,黑龙江卫视 Max16M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+#EXTINF:-1 ,广西卫视 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 ,河南卫视 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 ,吉林卫视 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 ,四川卫视 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 ,江西卫视 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 ,河北卫视 8M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 ,云南卫视 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 ,海南卫视 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 ,NewTV海外剧场 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
+#EXTINF:-1 ,NewTV军旅剧场 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 ,NewTV惊悚悬疑 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,NewTV明星大片 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 ,NewTV金牌综艺 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 ,黑莓动画 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,知否知否 4M1080 
+http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
